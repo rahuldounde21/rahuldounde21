@@ -4,7 +4,7 @@
 
 ### A passionate developer from pune
 
-<img src="https://github.com/https://github.com/rahuldounde21.png" alt="RAHUL DOUNDE" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://github.com/rahuldounde21.png" alt="RAHUL DOUNDE" width="150" height="150" style="border-radius: 50%;" />
 
 </div>
 
@@ -61,7 +61,7 @@ Gained real-world experience in software development lifecycle (SDLC)
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/rahuldounde21)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/rahul dounde)&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/rahuldounde)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahuldounde21)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/rahul dounde)&nbsp;&nbsp;&nbsp;[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/rahuldounde)
 
 </div>
 
@@ -119,15 +119,15 @@ Gained real-world experience in software development lifecycle (SDLC)
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/rahuldounde21&theme=onedark&column=7&margin-w=15&margin-h=15)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rahuldounde21&theme=onedark&column=7&margin-w=15&margin-h=15)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=https://github.com/rahuldounde21&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=rahuldounde21&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/rahuldounde21&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahuldounde21&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/rahuldounde21&layout=compact&theme=radical&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldounde21&layout=compact&theme=radical&langs_count=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/rahuldounde21&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahuldounde21&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>
 
@@ -139,6 +139,6 @@ Gained real-world experience in software development lifecycle (SDLC)
 
 **Thank you for visiting my profile! 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/rahuldounde21&color=brightgreen&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=rahuldounde21&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
